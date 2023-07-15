@@ -14,4 +14,4 @@ jobs:
     steps:
       - uses: zylele/social-readme@master
         with:
-          blog_rss_link: https://blog.lovesnowex.tk/sitemap.xml
+          blog_rss_link: https://blog.lovesnowex.tk/index.xml
