@@ -6,11 +6,7 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=LoveSnowEx&theme=darkhub&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true)
 
-## Blog
-
-[Link](https://blog.lovesnowex.tk)
-
-### Latest posts
+## [Blog](https://blog.lovesnowex.tk)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
