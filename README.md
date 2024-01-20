@@ -9,7 +9,7 @@
 ## [Blog](https://blog.lovesnowex.tk)
 
 <!-- BLOG-POST-LIST:START -->
-- [[開發筆記] 安裝 self-hosted runner](https://blog.lovesnowex.tk/post/development-note/self-hosted-runner-installation/)
+- [[開發筆記] 如何使用 self-hosted runner？](https://blog.lovesnowex.tk/post/development-note/how-to-use-self-hosted-runner/)
 - [[Laravel] 使用 SQLite 在本地進行測試](https://blog.lovesnowex.tk/post/laravel/use-sqlite-for-testing/)
 - [[心得] 開發守則](https://blog.lovesnowex.tk/post/experience/development-principle/)
 - [[截圖工具] 3. 新增快捷鍵功能](https://blog.lovesnowex.tk/post/screen-cropper-tutorial/add-keyboard/)
