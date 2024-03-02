@@ -6,7 +6,7 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=LoveSnowEx&theme=darkhub&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true)
 
-## [Blog](https://blog.lovesnowex.tk)
+## [Blog](https://lovesnowex.xyz)
 
 <!-- BLOG-POST-LIST:START -->
 - [[開發筆記] 如何在 VS Code 使用 Dev Containers？](https://lovesnowex.xyz/post/development-note/dev-containers-vscode/)
