@@ -9,9 +9,9 @@
 ## [Blog](https://lovesnowex.xyz)
 
 <!-- BLOG-POST-LIST:START -->
-- [[開發筆記] 如何在 VS Code 使用 Dev Containers？](https://lovesnowex.xyz/post/development-note/dev-containers-vscode/)
-- [[開發筆記] 如何使用 self-hosted runner？](https://lovesnowex.xyz/post/development-note/self-hosted-runner-guide/)
-- [[Laravel] 使用 SQLite 在本地進行測試](https://lovesnowex.xyz/post/laravel/use-sqlite-for-testing/)
-- [[心得] 開發守則](https://lovesnowex.xyz/post/experience/development-principle/)
-- [[截圖工具] 3. 新增快捷鍵功能](https://lovesnowex.xyz/post/screen-cropper-tutorial/add-keyboard/)
+- [[開發筆記] 如何在 VS Code 使用 Dev Containers？](https://lovesnowex.com/post/development-note/dev-containers-vscode/)
+- [[開發筆記] 如何使用 self-hosted runner？](https://lovesnowex.com/post/development-note/self-hosted-runner-guide/)
+- [[Laravel] 使用 SQLite 在本地進行測試](https://lovesnowex.com/post/laravel/use-sqlite-for-testing/)
+- [[心得] 開發守則](https://lovesnowex.com/post/experience/development-principle/)
+- [[截圖工具] 3. 新增快捷鍵功能](https://lovesnowex.com/post/screen-cropper-tutorial/add-keyboard/)
 <!-- BLOG-POST-LIST:END -->
